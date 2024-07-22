@@ -20,3 +20,17 @@
     height: auto;
     width: auto;
 }
+
+#las{
+    color: brown;
+}
+
+#piz{
+    color: orange;
+}
+.bodylas{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bodypiz{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
