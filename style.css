@@ -1,0 +1,22 @@
+.title{
+    color: green;
+    background-color: white;
+    font-weight: 800;
+    text-align: center;
+}
+
+#h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+    background-color: white;
+}
+.list{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#image{
+    height: auto;
+    width: auto;
+}
