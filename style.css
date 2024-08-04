@@ -4,7 +4,10 @@
 
 
 
-
+.image_box{
+    display: flex;
+    flex: 1;
+}
 
 
 .title{
